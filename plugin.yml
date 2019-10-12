@@ -1,0 +1,7 @@
+name: TN-Essentials
+version: 1.0.0
+api: 3.9
+author: TheNote
+main: TheNote\core\Main
+description: TN-Essentials by TheNote
+website: https://discord.gg/XwXKuvy
