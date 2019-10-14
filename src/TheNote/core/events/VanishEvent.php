@@ -3,7 +3,7 @@
 namespace TheNote\core\events;
 
 use TheNote\core\Main;
-use TheNote\core\Scheduler\VanishScheduler;
+use TheNote\core\scheduler\VanishScheduler;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\player\PlayerQuitEvent;
