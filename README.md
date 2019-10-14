@@ -1,4 +1,4 @@
-### TN-Essebtials bei TheNote
+### TN-Essentials bei TheNote
 
 [![Poggit-CI](https://poggit.pmmp.io/ci.badge/errox404/MatriXGameZ-Essential/)](https://poggit.pmmp.io/ci/errox404/MatriXGameZ-Essential/)
 Mein Discordserver! <br>
