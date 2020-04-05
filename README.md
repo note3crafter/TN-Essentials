@@ -33,7 +33,4 @@ __Mehr kommt noch...__
 
 Ein Danke geht auch an Aenoxic für deine Hilfe ! <3
 
-Bitte beachten!!!
-Geht in plugin-data und erstellt ein Ordner "TN-Essentials" danach geht ihr in diesem Ordner und erstellt einen weiteren Ordner "players" ansonnsten führt es zum Crash!
-
-Copyright by TheNote
+Copyright by TheNote 2020
